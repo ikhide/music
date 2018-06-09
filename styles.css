@@ -1,0 +1,22 @@
+/* add your CSS here */
+body{
+	width: 500px;
+}
+
+img{
+
+	width: 300px;
+	
+}
+
+ul li{
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.facts{
+	border: 1px solid grey;
+	border-right: 3px;
+	border-bottom: 3px;
+
+}
